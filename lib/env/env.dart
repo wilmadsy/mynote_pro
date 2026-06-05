@@ -6,35 +6,35 @@ part 'env.g.dart';
 @Envied(path: '.env')
 abstract class Env {
   @EnviedField(varName: 'APIKEY', obfuscate: true)
-  static final String androapikey = _Env.androapikey;
+  static final String androApiKey = _Env.androApiKey;
 
   @EnviedField(varName: 'APPID', obfuscate: true)
-  static final String androappid = _Env.androappid;
+  static final String androAppId = _Env.androAppId;
 
   @EnviedField(varName: 'MESSAGING_SENDER_ID', obfuscate: true)
-  static final String andromess = _Env.andromess;
+  static final String androMess = _Env.androMess;
 
   @EnviedField(varName: 'PROJECT_ID', obfuscate: true)
-  static final String androproj = _Env.androproj;
+  static final String androProj = _Env.androProj;
 
   @EnviedField(varName: 'STORAGE_BUCKET', obfuscate: true)
-  static final String androstor = _Env.androstor;
+  static final String androStor = _Env.androStor;
 
   @EnviedField(varName: 'APIKEY_IOS', obfuscate: true)
-  static final String iosapikey = _Env.iosapikey;
+  static final String iosApiKey = _Env.iosApiKey;
 
   @EnviedField(varName: 'APPID_IOS', obfuscate: true)
-  static final String iosappid = _Env.iosappid;
+  static final String iosAppId = _Env.iosAppId;
 
   @EnviedField(varName: 'MESSAGING_SENDER_ID_IOS', obfuscate: true)
-  static final String iosmess = _Env.iosmess;
+  static final String iosMess = _Env.iosMess;
 
   @EnviedField(varName: 'PROJECT_ID_IOS', obfuscate: true)
-  static final String iosproj = _Env.iosproj;
+  static final String iosProj = _Env.iosProj;
 
   @EnviedField(varName: 'STORAGE_BUCKET_IOS', obfuscate: true)
-  static final String iosstor = _Env.iosstor;
+  static final String iosStor = _Env.iosStor;
 
   @EnviedField(varName: 'IOS_BUNDLE_ID_IOS', obfuscate: true)
-  static final String iosbundleid = _Env.iosbundleid;
+  static final String iosBundleId = _Env.iosBundleId;
 }
