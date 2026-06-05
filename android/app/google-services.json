@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "986786829139",
+    "project_id": "mynote-pro",
+    "storage_bucket": "mynote-pro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986786829139:android:09235ea08ae326d63087a6",
+        "android_client_info": {
+          "package_name": "com.example.mynote_pro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986786829139-bq8lkai7k5pumgcifvb4e77l2hrl1mi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mynote_pro",
+            "certificate_hash": "bd181c8bc7250fd04be26ee32f568dd406b682b3"
+          }
+        },
+        {
+          "client_id": "986786829139-stue3v2c5oqm43vd83a5vu1km56tbkho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrZy0BCQrZkqR5aLwDCAlplP6Y-UHEm_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986786829139-stue3v2c5oqm43vd83a5vu1km56tbkho.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "986786829139-cnf0dqldfdk4mvhjgfbeqvg836t34k71.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.mynotePro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
