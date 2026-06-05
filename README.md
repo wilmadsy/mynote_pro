@@ -38,7 +38,7 @@ cd mynote_pro
 2.  **Pasang Dependensi**
     Unduh semua paket (*packages*) Flutter yang diperlukan:
  ```
-    bash
+bash
 ```
 ```
 flutter pub get
@@ -47,17 +47,17 @@ flutter pub get
 3. **Konfigurasi Firebase**
 Proyek ini menggunakan Firebase. Jalankan perintah berikut untuk mengonfigurasi platform yang Anda tuju (pastikan sudah login ke Firebase CLI melalui `firebase login`):
 ```
-    bash
+bash
  ```
  ```
-    flutterfire configure
+flutterfire configure
 ```
 *Perintah ini akan memperbarui berkas `firebase.json` dan menghasilkan konfigurasi yang diperlukan di dalam folder `lib/`.*
 
 4.  **Jalankan Aplikasi**
     Pilih perangkat Anda dan jalankan aplikasi dalam mode pengembangan:
 ```
-    bash
+bash
 ```
 ```
 flutter run
