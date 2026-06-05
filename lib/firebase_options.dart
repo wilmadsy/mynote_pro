@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
     }
   }
 
-  static const FirebaseOptions android = FirebaseOptions(
+  static final FirebaseOptions android = FirebaseOptions(
     apiKey: Env.androapikey,
     appId: Env.androappid,
     messagingSenderId: Env.andromess,
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
     storageBucket: Env.androstor,
   );
 
-  static const FirebaseOptions ios = FirebaseOptions(
+  static final FirebaseOptions ios = FirebaseOptions(
     apiKey: Env.iosapikey,
     appId: Env.iosappid,
     messagingSenderId: Env.iosmess,
