@@ -113,4 +113,4 @@ Proyek ini belum ditentukan lisensinya. Silakan hubungi pemilik repositori untuk
 
 ---
 
-**Dibuat dengan ❤️ oleh [Ahmad Ayyasy**](https://www.google.com/search?q=https%3A%2F%2Fgithub.com%2Fwilmadsy](https://github.com/wilmadsy))
+**Dibuat dengan ❤️ oleh [Ahmad Ayyasy**](https://github.com/wilmadsy)
